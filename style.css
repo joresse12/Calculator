@@ -14,7 +14,6 @@
     align-items: center;
 }
 .grid-container{
-    
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
@@ -47,7 +46,4 @@ form .display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
-}
-form .grid-container.button.equal{
-    width: 145px;
 }
