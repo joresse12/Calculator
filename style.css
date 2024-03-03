@@ -24,7 +24,7 @@
     padding: 20px;
     border-radius: 10px;
 }
-.container form button, .container form input{
+.container .calculatrive button, .container .calculatrive input{
     border: 0;
     outline: 0;
     width: 60px;
@@ -37,12 +37,12 @@
     cursor: pointer;
     margin: 10px;
 }
-form .display{
+.calculatrive .display{
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
 }
-form .display input{
+.calculatrive .display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
