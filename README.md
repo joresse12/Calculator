@@ -13,5 +13,5 @@ Install my-project with git
 Pages:
 
 ```
-calculator.github.io
+[calculator.github.io](https://joresse12.github.io/calculator.github.io/)https://joresse12.github.io/calculator.github.io/
 ```
