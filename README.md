@@ -10,4 +10,8 @@ Install my-project with git
   git clone link
   cd my-project
 ```
-    
+Pages:
+
+```
+calculator.github.io
+```
